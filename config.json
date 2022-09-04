@@ -11,11 +11,11 @@
     "auto_leaveMsg": true,    
     "autobio": true,
     "anticall": true,
-    "autorespond": false,
+    "autorespond": true,
     "autoblok212": true,
     "autoread": true,
-    "gamewaktu": 90,
-    "limitCount": 25,
+    "gamewaktu": 120,
+    "limitCount": 30,
     "gcount": {
         "prem": 1000,
         "user": 15
