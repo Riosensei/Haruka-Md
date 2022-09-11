@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/file/d8bde56f20812a9aca1be.jpg" alt="ALPHA BOT" width="100"/>
+<img src="https://telegra.ph/file/d8bde56f20812a9aca1be.jpg" alt="ALPHA BOT" width="400"/>
 
 
 </p>
